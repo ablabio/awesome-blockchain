@@ -4,6 +4,7 @@
 * Basics
 * Bitcoin
 * Ethereum
+* IoT Mesh
 * Killer Apps
 
 ### Basics
@@ -15,5 +16,7 @@
 1. [Deploying your First Ethereum Smart Contract](http://hypernephelist.com/2016/06/01/deploying-my-first-smart-contract.html)
 2. [Ethereum Gitter](https://gitter.im/ethereum/topics)
 3. [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
+
+### IoT Mesh
 
 ### Killer Apps
